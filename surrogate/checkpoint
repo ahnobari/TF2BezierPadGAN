@@ -1,0 +1,2 @@
+model_checkpoint_path: "Trained_PadGAN"
+all_model_checkpoint_paths: "Trained_PadGAN"
